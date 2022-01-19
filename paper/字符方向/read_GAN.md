@@ -1,0 +1,12 @@
+## structure
+
+GAN、
+
+
+
+## loss
+
+
+
+
+

@@ -1,0 +1,1 @@
+AGUN:Geometric rectification of document images using adversarial gated unwarping network
